@@ -6,6 +6,7 @@ Neste projeto, eu recriei a Pokédex utilizando JavaScript, HTML e CSS. Você po
 Observações:
 - A API usada no projeto fornece GIFs apenas até o Pokémon com ID 649, mas é possível pesquisar até o ID 1025.
 
+link do projeto: https://66b4839ae45c66c2a25da1f5--poetic-bublanina-60bfc5.netlify.app
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hello!
