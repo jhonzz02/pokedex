@@ -28,4 +28,6 @@ Es posible buscar todos los Pokémon de las generaciones I a IX
 Notas:
 - La API utilizada en el proyecto solo proporciona GIF hasta Pokémon con ID 649, pero es posible buscar hasta ID 1025.
 
-Link do projeto:
+Enlace del proyecto: https://jade-stroopwafel-efeb2f.netlify.app
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
