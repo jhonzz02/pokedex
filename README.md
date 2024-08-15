@@ -6,7 +6,7 @@ Neste projeto, eu recriei a Pokédex utilizando JavaScript, HTML e CSS. Você po
 Observações:
 - A API usada no projeto fornece GIFs apenas até o Pokémon com ID 649, mas é possível pesquisar até o ID 1025.
 
-link do projeto: https://66b4839ae45c66c2a25da1f5--poetic-bublanina-60bfc5.netlify.app
+Link do projeto: https://66b4839ae45c66c2a25da1f5--poetic-bublanina-60bfc5.netlify.app
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hello!
@@ -17,6 +17,7 @@ It is possible to search for all Pokémon from generations I to IX.
 Notes:
 - The API used in the project only provides GIFs up to Pokémon with ID 649, but it is possible to search up to ID 1025.
 
+Project link: https://66b4839ae45c66c2a25da1f5--poetic-bublanina-60bfc5.netlify.app
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ¡Hola!
@@ -26,3 +27,5 @@ Es posible buscar todos los Pokémon de las generaciones I a IX
 
 Notas:
 - La API utilizada en el proyecto solo proporciona GIF hasta Pokémon con ID 649, pero es posible buscar hasta ID 1025.
+
+Enlace del proyecto: https://66b4839ae45c66c2a25da1f5--poetic-bublanina-60bfc5.netlify.app
