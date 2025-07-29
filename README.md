@@ -6,7 +6,7 @@ Neste projeto, eu recriei a Pokédex utilizando JavaScript, HTML e CSS. Você po
 Observações:
 - A API usada no projeto fornece GIFs apenas até o Pokémon com ID 649, mas é possível pesquisar até o ID 1025.
 
-Link do projeto: https://jade-stroopwafel-efeb2f.netlify.app
+Link do projeto: https://pokedexbyjhonz.vercel.app
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hello!
@@ -17,7 +17,7 @@ It is possible to search for all Pokémon from generations I to IX.
 Notes:
 - The API used in the project only provides GIFs up to Pokémon with ID 649, but it is possible to search up to ID 1025.
 
-Project link: https://jade-stroopwafel-efeb2f.netlify.app
+Project link: https://pokedexbyjhonz.vercel.app
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
